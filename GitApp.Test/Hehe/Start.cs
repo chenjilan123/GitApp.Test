@@ -11,6 +11,7 @@ namespace GitApp.Test.Hehe
             Console.WriteLine("Heheda");
             //呵呵呵呵打
             Console.WriteLine("呵呵呵呵呵哒");
+            Console.WriteLine("hehehe");
         }
     }
 }

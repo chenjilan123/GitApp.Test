@@ -9,6 +9,7 @@ namespace GitApp.Test.Hehe
         public void Run()
         {
             Console.WriteLine("呵呵");
+            Console.WriteLine("呵呵呵呵哒");
         }
     }
 }

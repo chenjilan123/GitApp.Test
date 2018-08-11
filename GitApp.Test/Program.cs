@@ -7,6 +7,7 @@ namespace GitApp.Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
         }
     }
 }

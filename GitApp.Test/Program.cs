@@ -8,9 +8,6 @@ namespace GitApp.Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            
-            //呵呵呵呵
-            //呵呵哒
         }
     }
 }
